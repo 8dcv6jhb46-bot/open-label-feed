@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Label</title>
+    <link>https://8dcv6jhb46-bot.github.io/open-label-feed/</link>
+    <atom:link href="https://8dcv6jhb46-bot.github.io/open-label-feed/feed-00163967ff7948d1c46740d5.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>An AI-made podcast. The hosts are synthetic voices, made with Google's Gemini; scripts are written by AI (Claude, from Anthropic) from openly licensed research papers and checked automatically against them. Produced by Sam. For discussion and learning, not medical advice. The papers' authors and journals don't endorse the show.</description>
+    <itunes:author>Open Label</itunes:author>
+    <itunes:image href="https://8dcv6jhb46-bot.github.io/open-label-feed/cover.png"/>
+    <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+
+  </channel>
+</rss>
