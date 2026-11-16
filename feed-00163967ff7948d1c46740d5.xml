@@ -7,11 +7,61 @@
     <language>en-gb</language>
     <description>An AI-made podcast. The hosts are synthetic voices, made with Google's Gemini; scripts are written by AI (Claude, from Anthropic) from openly licensed research papers and checked automatically against them. Produced by Sam. For discussion and learning, not medical advice. The papers' authors and journals don't endorse the show.</description>
     <itunes:author>Open Label</itunes:author>
-    <itunes:image href="https://8dcv6jhb46-bot.github.io/open-label-feed/cover.png"/>
+    <itunes:image href="https://8dcv6jhb46-bot.github.io/open-label-feed/cover.jpg"/>
     <itunes:category text="Health &amp; Fitness"><itunes:category text="Medicine"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Ep 1 · What happened when AI became a second reader in breast screening?</title>
+      <guid isPermaLink="false">open-label-ep01</guid>
+      <pubDate>Mon, 16 Nov 2026 21:16:32 +0000</pubDate>
+      <enclosure url="https://github.com/8dcv6jhb46-bot/open-label-feed/releases/download/ep01/ep01.m4a" length="10095571" type="audio/x-m4a"/>
+      <itunes:duration>1607</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <description>AI-generated: AI-written script and synthetic voices, checked automatically against the papers credited below. Not medical advice.
 
+Sam's listen-through guide (riskiest first):
+about 0:13:46: GEMINI study vs Google's Gemini voices: check it's clear they're unrelated
+about 0:00:02: Google disclosure and no-endorsement line
+about 0:17:52: Company funding stated (PRAIM): check it sounds neutral
+about 0:06:29: Arbiters overruling the AI: check it doesn't sound like criticism of NHS readers
+about 0:10:36: AI worse on one manufacturer's images (unnamed, small numbers)
+about 0:20:08: MASAI named but not used: check it doesn't sound like a judgement on the trial
+about 0:25:45: Takeaways: the strongest claims
+about 0:20:08: Cost model: 'replace both readers' result, framed as a model only
+
+Named in this episode: Google (Gemini), Anthropic (Claude), Vara, NHS Grampian, NIHR; studies GEMINI, PRAIM, ScreenTrustCAD, MASAI and EDITH; journals Nature Cancer, Nature Medicine, British Journal of Cancer.
+
+## Credits
+
+Each paper below was summarised and adapted for audio by AI. Its authors and journal don't endorse the show.
+
+- **Lead paper:** Warren LM, Venton J, Young KC, Halling-Brown M, Kelly CJ, Wilson M, et al.. "Impact of using artificial intelligence as a second reader in breast screening including arbitration." *Nature Cancer*, 2026. https://doi.org/10.1038/s43018-026-01128-z (Europe PMC PMC13035470). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Supporting paper:** Kelly CJ, Wilson M, Warren LM, Sidebottom R, Halling-Brown M, Yang L, et al.. "Diagnostic accuracy, fairness and clinical implementation of AI for breast cancer screening: results of multicenter retrospective and prospective technical feasibility studies." *Nature Cancer*, 2026. https://doi.org/10.1038/s43018-026-01127-0 (Europe PMC PMC13035471). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Supporting paper:** de Vries CF, Lip G, Staff RT, Dymiter JA, Tse B, Ng A, et al.. "Prospective evaluation of artificial intelligence integration into breast cancer screening in multiple workflow settings: the GEMINI study." *Nature Cancer*, 2026. https://doi.org/10.1038/s43018-026-01126-1 (Europe PMC PMC13035467). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Supporting paper:** Eisemann N, Bunk S, Mukama T, Baltus H, Elsner SA, Gomille T, et al.. "Nationwide real-world implementation of AI for cancer detection in population-based mammography screening." *Nature Medicine*, 2025. https://doi.org/10.1038/s41591-024-03408-6 (Europe PMC PMC11922743). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Supporting paper:** Hill H, Roadevin C. "Economic evaluation of artificial intelligence for cancer detection in the UK breast screening programme." *British Journal of Cancer*, 2026. https://doi.org/10.1038/s41416-026-03465-3 (Europe PMC PMC13373195). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Named but not used: the MASAI trial (Sweden). Its papers didn't pass our licence check, so only what the GEMINI paper reports about it is mentioned.
+
+## About this episode
+
+Hosts Nina and Rob are AI-generated: synthetic voices made with Google's Gemini, and a script written by AI (Claude, from Anthropic) from the papers above, checked automatically against them. Google provided the AI tool evaluated in two of the papers. Produced by Sam. For discussion and learning, not medical advice.
+
+Corrections: none yet. Errors are corrected at the start of the next episode.
+
+Chapters:
+0:00:00 Opening
+0:00:49 Why it matters
+0:02:31 The lead paper
+0:11:42 The supporting papers
+0:22:13 What it means here
+0:24:56 What we still don't know
+0:25:45 Close
+
+Each paper was summarised and adapted for audio; its authors and journal don't endorse the show. Not medical advice. Private feed: please don't share.</description>
+    </item>
   </channel>
 </rss>
